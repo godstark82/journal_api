@@ -1,0 +1,16 @@
+{
+    "articles": [
+        {
+            "title": "Sample Article",
+            "content": "This is a sample article"
+        },
+        {
+            "title": "Sample Article 2",
+            "content": [
+                {
+                    "key": "value"
+                }
+            ]
+        }
+    ]
+}
